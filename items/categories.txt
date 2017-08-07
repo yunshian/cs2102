@@ -1,0 +1,4 @@
+furniture
+stationery
+clothes
+books

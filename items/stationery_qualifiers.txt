@@ -1,0 +1,15 @@
+old
+new
+used
+cheap
+common
+disposable
+recyclable
+simple
+usable
+useful
+unwanted
+rusted
+broken
+bulky
+defective

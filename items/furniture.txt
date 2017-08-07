@@ -1,0 +1,20 @@
+chair
+armchair
+stool
+recliner
+rocking chair
+sofa
+bench
+couch
+bed
+mattress
+table
+wardrobe
+cupboard
+cabinet
+closet
+drawer
+desk
+door
+ceiling fan
+bookshelf

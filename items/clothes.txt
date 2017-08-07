@@ -1,0 +1,38 @@
+gloves
+bracelet
+belt
+girdle
+sailor dress
+sailor suit
+diaper
+coat
+a-line dress
+cheongsam
+cocktail dress
+evening gown
+petticoat
+wedding dress
+clogs
+sneakers
+boat shoes
+socks
+sandals
+boots
+hat
+wig
+mask
+helmet
+turban
+veil
+jacket
+necklace
+denim skirt
+pencil skirt
+t-shirt
+polo shirt
+bermudas
+trousers
+cargo pants
+jeans
+breeches
+underwear

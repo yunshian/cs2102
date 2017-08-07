@@ -1,0 +1,11 @@
+{
+  "config": {
+    "vendor-dir" : "htdocs"
+  },
+  
+  "require" : {
+    "mikecao/flight" : "1.3.*",
+    "fzaninotto/faker" : "1.6.*",
+	"vlucas/valitron" : "1.4.*"
+  }
+}
